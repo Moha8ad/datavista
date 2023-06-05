@@ -1,0 +1,9 @@
+export { default as Calendar } from "./calendar";
+export { default as Contacts } from "./contacts";
+export { default as Dashboard } from "./dashboard";
+export { default as FAQ } from "./faq";
+export { default as Form } from "./form";
+export { default as Invoices } from "./invoices";
+export { default as Team } from "./team";
+export { default as Topbar } from "./global/Topbar";
+export { default as Sidebar } from "./global/Sidebar";
